@@ -1,7 +1,7 @@
-Name,Marks
-Ankush,88
-Preeti,94
-Ayush,84
-Banu,76
-Kavya,98
-Avinash,83
+Name,Department,Marks
+Ankush,CSE,88
+Preeti,CSE,94
+Ayush,ECE,84
+Banu,CSE,76
+Kavya,IT,98
+Avinash,ECE,83
